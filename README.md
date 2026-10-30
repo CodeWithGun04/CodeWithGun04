@@ -3,7 +3,7 @@
 learning dsa • cybersecurity • ai • python data visualization  
 
 ## about me  
-- first-year cse student  
+- second-year cse student  
 - learning **dsa in c**  
 - doing the **google cybersecurity certificate**  
 - completed **google ai essentials**  
